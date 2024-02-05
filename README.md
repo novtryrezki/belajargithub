@@ -1,1 +1,1 @@
-Gambar 32*32*1
+Gambar 32x32x1
